@@ -1,5 +1,7 @@
-Blue Yeti
+# Blue Yeti
+
 - Sem caixa
 - Funcionando perfeitamente
 - Algumas marcas de uso (metal desgastado/ralado)
-R$350
+
+# Valor: R$ 350,00
